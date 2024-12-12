@@ -1,6 +1,5 @@
 - 🇨🇿 czech web developer
-- ⌨️ javascript, react, php, sql
-     git, graphql, liquid
+- ⌨️ javascript, react, php, sql, java, git, graphql, liquid
 
 - 🖥️ both MacOS / Windows
 <!---
